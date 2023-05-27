@@ -1,0 +1,11 @@
+plugins {
+    id 'java'
+}
+
+group 'com.kavaliou.annotation.sample'
+version '1.0'
+
+repositories {
+    mavenCentral()
+    mavenLocal()
+}
